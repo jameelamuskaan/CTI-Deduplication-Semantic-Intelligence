@@ -1,0 +1,14 @@
+Compile:
+javac -encoding UTF-8 -d out src\CtiAdvancedApp.java
+
+Run self-tests only:
+java -cp out CtiAdvancedApp --self-test
+
+Launch GUI:
+java -cp out CtiAdvancedApp
+
+Verified in the build environment with OpenJDK 21:
+Compilation successful.
+7/7 included self-tests passed.
+
+The user's JDK 27 should also run this Java 21-compatible source.
