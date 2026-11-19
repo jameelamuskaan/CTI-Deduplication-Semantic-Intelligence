@@ -89,16 +89,6 @@ CTI-Deduplication-Semantic-Intelligence/
 └── README.md
 ```
 
-## Screenshots
-
-Add screenshots to a `docs/screenshots/` folder and link them here.
-
-| Screen | Preview |
-| --- | --- |
-| Dashboard | `![Dashboard](docs/screenshots/dashboard.png)` |
-| Record management | `![Records](docs/screenshots/records.png)` |
-| Analyst review and merge | `![Review](docs/screenshots/review.png)` |
-
 ## Limitations
 
 - Data is held in memory only and is lost when the application closes.
